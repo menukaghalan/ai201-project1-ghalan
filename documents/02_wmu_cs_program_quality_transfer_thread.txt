@@ -1,0 +1,20 @@
+Source Title: r/WMU - Is the computer science program here quality?
+Source Type: Public Reddit student discussion
+Source URL: https://www.reddit.com/r/WMU/comments/1c8yd4d/is_the_computer_science_program_here_quality/
+Date Collected: 2026-06-07
+Dataset Note: This document contains source-derived notes from a public Reddit thread. It is not official advising.
+
+Content:
+A prospective transfer student asked whether WMU's computer science program is high quality and mentioned hearing concerns that the department may be short-staffed.
+
+One commenter said they were not personally a CS major, but their older brother studied Computer Engineering and people they knew had successful outcomes with CS and CE degrees. The comment framed WMU's issues as similar to issues at comparable universities, rather than uniquely bad.
+
+The same commenter noted that WMU has had broader staffing challenges, but still recommended the program overall because of the engineering and applied sciences facilities, local transfer convenience, and relatively reasonable price.
+
+Key takeaway: the unofficial sentiment is mixed but generally reassuring. Students may hear concerns about staffing, but at least one commenter argues that the facilities, cost, and success stories make WMU a reasonable choice for a transfer student.
+
+Possible questions this document can help answer:
+- What concerns do transfer students have about WMU CS?
+- Do students describe WMU CS as short-staffed?
+- What reasons do commenters give for still recommending WMU CS?
+- Is WMU CS described as clearly better or worse than similar Michigan universities?

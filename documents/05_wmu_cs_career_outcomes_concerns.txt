@@ -1,0 +1,17 @@
+Source Title: r/WMU - Careers after college?
+Source Type: Public Reddit prospective-transfer discussion
+Source URL: https://www.reddit.com/r/WMU/comments/1anzosf/careers_after_college/
+Date Collected: 2026-06-07
+Dataset Note: This document contains source-derived notes from a public Reddit thread.
+
+Content:
+A community college student considering transferring to WMU asked whether a WMU computer science degree would make it difficult to get a job after graduation. The student said friends at other universities suggested WMU may be less respected.
+
+The question reflects a common unofficial concern: students want to know whether employers respect the school enough and whether alumni actually get jobs after graduating with a BS in Computer Science.
+
+This source is mainly useful for identifying career-related anxieties, not for proving job outcomes. It should be paired with alumni comments or career fair sources before answering strong claims about employment success.
+
+Possible questions this document can help answer:
+- Are prospective CS transfers worried about WMU's reputation?
+- What career concerns do students ask about before transferring?
+- What would the system need to answer before making claims about job outcomes?

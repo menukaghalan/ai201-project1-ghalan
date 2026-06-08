@@ -1,0 +1,20 @@
+Source Title: r/WMU - Trying to track down Computer Science course syllabi
+Source Type: Public Reddit student advice thread
+Source URL: https://www.reddit.com/r/WMU/comments/1gojxp6/im_trying_to_track_down_copies_of_some_computer/
+Date Collected: 2026-06-07
+Dataset Note: This document contains source-derived notes from a public Reddit thread.
+
+Content:
+A student needed old syllabi for Foundations of Computer Science, Computer Science 2, and Statistics using R in order to transfer or accredit courses at another institution. They had emailed current professors but only received a response from one professor.
+
+A commenter advised that institutions often require the syllabus from the same academic year or semester in which the course was taken. This means students should not assume any syllabus will work for transfer review.
+
+Another commenter recommended contacting the department administrative office because departments often need to keep copies for accreditation purposes.
+
+Key takeaway: for old CS syllabi, students should try the professor, but should also contact the department admin and ask for the exact semester/year syllabus if transfer credit is involved.
+
+Possible questions this document can help answer:
+- How should students find old CS syllabi?
+- Why might the semester or year of a syllabus matter?
+- Who should students contact if professors do not respond?
+- What courses were mentioned in the syllabus request?

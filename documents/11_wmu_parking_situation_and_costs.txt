@@ -1,0 +1,18 @@
+Source Title: r/WMU - Parking Situation
+Source Type: Public Reddit student parking complaint
+Source URL: https://www.reddit.com/r/WMU/comments/1nbrs6a/parking_situation/
+Date Collected: 2026-06-07
+Dataset Note: This document contains source-derived notes from a public Reddit thread.
+
+Content:
+A student complained that WMU students pay about $150 per semester for parking while many lots are full. The complaint said students may have to park far from where they need to go and that reserved employee spaces appear empty.
+
+The student specifically said the parking situation makes it hard to travel from main campus to Parkview campus within a reasonable time.
+
+Key takeaway: parking frustration is a strong unofficial theme. Students may be concerned about permit cost, full lots, employee-reserved spaces, and travel time between main campus and Parkview.
+
+Possible questions this document can help answer:
+- What do students complain about with WMU parking?
+- Why is parking between main campus and Parkview difficult?
+- What parking cost was mentioned in the thread?
+- Are empty reserved employee spaces part of the complaint?

@@ -1,0 +1,20 @@
+Source Title: r/WMU - Engineering Program
+Source Type: Public Reddit alumni/student comment thread
+Source URL: https://www.reddit.com/r/WMU/comments/t974pr/engineering_program/
+Date Collected: 2026-06-07
+Dataset Note: This document contains source-derived notes from a public Reddit thread.
+
+Content:
+One commenter said they attended Western for computer science, later earned a master's degree, and became a senior engineer at Google. They also said friends from Western went on to companies such as Waymo, SpaceX, Facebook, and to PhD programs at top universities.
+
+The commenter preferred Western over GVSU for engineering-related reasons including larger size, higher research activity, and student organizations.
+
+They also recommended joining project-based clubs such as Formula SAE or Sunseeker for engineering students. The advice suggests that outcomes may depend not only on the degree but also on involvement in applied clubs and projects.
+
+Key takeaway: some unofficial alumni sentiment is very positive about WMU CS/engineering outcomes, especially when students combine coursework with clubs, projects, graduate study, or career preparation.
+
+Possible questions this document can help answer:
+- Are there positive WMU CS career outcome stories?
+- What extracurricular activities are recommended for engineering students?
+- What reasons does one commenter give for choosing Western over GVSU?
+- Does the dataset include evidence of alumni going to major tech companies?

@@ -1,0 +1,17 @@
+Source Title: r/WMU - How good is the CS program at WMU?
+Source Type: Public Reddit student/prospective-student discussion
+Source URL: https://www.reddit.com/r/WMU/comments/p01c8s/how_good_is_the_cs_program_at_wmu/
+Date Collected: 2026-06-07
+Dataset Note: This document contains source-derived notes from a public Reddit thread. It is meant for a class RAG pipeline and should not be treated as official WMU information.
+
+Content:
+A prospective transfer student asked whether the WMU Computer Science program is good and specifically wanted to know what the CS program and professors are like. This shows that prospective students often want informal answers about program quality, faculty experience, and whether the major is worth transferring into.
+
+The thread is useful for questions about what kinds of concerns incoming CS students have before choosing WMU. The main concerns are program quality, professor quality, transfer fit, and what current or former students think beyond official department pages.
+
+This source does not provide a complete ranking of professors or courses. It is better used as context for student concerns rather than as a definitive answer about which professor is best.
+
+Possible questions this document can help answer:
+- What do prospective transfer students want to know about WMU CS?
+- Are professor quality and program quality common concerns for CS transfers?
+- Why is unofficial student knowledge useful for evaluating a CS program?

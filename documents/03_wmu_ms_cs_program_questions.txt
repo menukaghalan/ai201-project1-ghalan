@@ -1,0 +1,17 @@
+Source Title: r/WMU - How's the MS CS program at WMU?
+Source Type: Public Reddit prospective-student discussion
+Source URL: https://www.reddit.com/r/WMU/comments/159boox/hows_the_ms_cs_program_at_wmu/
+Date Collected: 2026-06-07
+Dataset Note: This document contains source-derived notes from a public Reddit thread.
+
+Content:
+An international student admitted to the MS Computer Science program asked about WMU's academics, culture, career prospects, alumni network, internship/job support, and whether the degree is worth the investment.
+
+The thread is useful because it captures the real questions prospective graduate students care about before enrolling. The concerns go beyond curriculum and include atmosphere, job outcomes, career services, alumni network strength, and return on investment.
+
+This document should not be used as proof that the MS CS program is good or bad, because the captured source content mainly contains the student's question. It is useful for understanding what questions the RAG system should be able to answer if more sources are added.
+
+Possible questions this document can help answer:
+- What do international MS CS admits want to know about WMU?
+- Are career prospects and return on investment major concerns for prospective graduate students?
+- What non-academic factors matter to prospective MS CS students?
